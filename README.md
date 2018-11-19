@@ -5,4 +5,4 @@ A dump of aerospace MATLAB projects done at university.
 - [Finite Element Analysis of a Beam](FiniteElementAnalysisProj)
 - [Fluid Analysis of Shock Waves and Compressors](PropulsionMiniProject)
 - [Dynamics and Visual Simulation of Soccer Free Kick](/Soccer-Ball-Motion-Dynamics)
-- [Linear State-Space Flight Dynamics](/LinearStateSpaceFlightDynamics)
+- [Linear State-Space Flight Dynamics Model](/LinearStateSpaceFlightDynamics)
